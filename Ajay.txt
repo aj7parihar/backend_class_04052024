@@ -1,0 +1,6 @@
+# Ajay created this file for learning git, and this is first time
+
+file_path = '/c:/Users/aparihar/Documents/Backend_Projects/GIT_PLAY_GROUND/learn_git/Ajay.txt'
+
+with open(file_path, 'w') as file:
+    file.write('Hello, world!')
