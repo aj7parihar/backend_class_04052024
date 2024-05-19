@@ -3,3 +3,5 @@
 # I have deleted some lines to check delta/changes.
 
 # Now I've to learn, how to use git commands?
+
+## Hey what happened, can't see first commit.
