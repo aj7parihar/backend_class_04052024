@@ -5,3 +5,5 @@
 #Making more changes.
 
 #Completed building feature.
+
+#Fixing a bug #127.
