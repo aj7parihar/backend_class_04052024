@@ -1,1 +1,2 @@
 #creating this text file and pushing it to GitHub.
+#git remote show origin
