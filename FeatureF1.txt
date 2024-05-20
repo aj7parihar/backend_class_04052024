@@ -6,3 +6,7 @@
 # No! wait one last thing is remaining, and yes now it is completed.
 
 #Fixing a bug @123 in a feature.
+
+#Fixing a bug124 in bugFix1 branch.
+ 
+#Fixing a bug #125.
